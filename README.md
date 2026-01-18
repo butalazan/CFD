@@ -13,5 +13,5 @@ The results help illustrate how surface features influence aerodynamic performan
 The trumpet-shaped geometry guides airflow to optimize velocity distribution and minimize pressure losses.
 This results help demonstrate how manifold design directly affects engine efficiency by controlling flow separation and improving air-fuel mixing.
 
-<img src="intake%20manifolds/notrumpet_test1.png" alt="golfball" width="500"/>
-<img src="intake%20manifolds/test1.png" alt="golfball" width="500"/>
+<img src="intake%20manifolds/notrumpet_test1.png" alt="golfball" width="650"/>
+<img src="intake%20manifolds/test1.png" alt="golfball" width="650"/>
