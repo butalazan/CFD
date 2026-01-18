@@ -1,4 +1,4 @@
-# Results of Detached Eddy Simulation (DES)
+# Results of Hybrid URANS/LES approach aka Detached Eddy Simulation with k-OmegaSSTDES model
 
 
 ## Dimpled ball aka "Golfball"
