@@ -1,6 +1,10 @@
 # Results of Hybrid URANS/LES approach aka Detached Eddy Simulation with k-OmegaSSTDES model
 
 
+## Model behavior comparison on the same grid 
+
+<img src="90degree-tube/comparison1.png" alt="comparsion1" width="650"/>
+
 ## Dimpled ball aka "Golfball"
 
 Dimples and surface roughness counterintuitively provides turbulence patterns, and wake formation that results in drag reduction.
