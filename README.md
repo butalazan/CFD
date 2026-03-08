@@ -3,7 +3,7 @@
 
 ## Model behavior comparison on the same grid 
 
-<img src="90degree-pipe/coparison1.png" alt="comparsion1" width="650"/>
+<img src="90degree-pipe/comparison2.png" alt="comparsion" width="650"/>
 
 ## Dimpled ball aka "Golfball"
 
